@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Play"
+title:  "Post"
 date:   2021-06-25 02:37:59 -0400
 categories: jekyll update
 ---
